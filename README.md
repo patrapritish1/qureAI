@@ -5,4 +5,4 @@
 3. enter command "mnv test"
 this should trigger the tests, given the chromedriver version is compatible with the browser version. if not then please change the chromedriver version accordingly (path in project -- /E2EProject/src/main/java/resources/chromedriver.exe).
 
-Note - if using eclipse ide, please install testng plugin to run the testng.xml file as TestNG Suite
+Note - if using eclipse ide after importing as a maven project please install testng plugin to run the testng.xml file as TestNG Suite
